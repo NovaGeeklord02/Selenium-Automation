@@ -10,4 +10,4 @@ A robust test automation framework built with Python, Selenium WebDriver, and py
 - HTML report generation
 - Screenshot capture on test failure
 - Reusable utility functions
-- Support for Chrome browser automation
+- Support for multi browser automation

@@ -11,5 +11,3 @@ A robust test automation framework built with Python, Selenium WebDriver, and py
 - Screenshot capture on test failure
 - Reusable utility functions
 - Support for Chrome browser automation
-
-## Project Structure
